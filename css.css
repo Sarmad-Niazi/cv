@@ -1,0 +1,30 @@
+body {
+        background-color: brown;
+}
+
+hr  { 
+    border-style: none;
+    border-top-style: dashed;
+    border-color: maroon;
+    border-width: 3px;
+    width: 30%;
+}
+
+img {
+    height: 300px;
+}
+
+h1 {
+    color:white;
+}
+
+h3 {
+    color:white;
+}
+    
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
